@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e71cf8ff-1bc9-4d68-afe8-c9ff39ca6207",
+  "path": "gitnexus-cli",
+  "path_key": "gitnexus-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

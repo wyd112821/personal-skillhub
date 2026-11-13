@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0293d81a-6f56-4e16-9d7b-d62bcc027996",
+  "path": "gitnexus-impact-analysis",
+  "path_key": "gitnexus-impact-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
