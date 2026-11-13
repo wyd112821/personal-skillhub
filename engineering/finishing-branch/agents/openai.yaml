@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finishing Branch"
+  short_description: "汇报当前开发分支状态，并按选择完成本地合并与安全清理"
+  default_prompt: "使用 $finishing-branch 汇报当前开发分支并完成合并收尾。"
