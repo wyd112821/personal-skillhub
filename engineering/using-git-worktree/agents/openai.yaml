@@ -1,7 +1,0 @@
-interface:
-  display_name: "Using Git Worktree"
-  short_description: "仅在明确调用时创建并初始化独立 Git worktree"
-  default_prompt: "使用 $using-git-worktree 为本次任务准备独立工作区。"
-
-policy:
-  allow_implicit_invocation: false
