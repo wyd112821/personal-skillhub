@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b36d3501-9bad-4ec3-b64b-c07eb3eaffb4",
+  "path": "huashu-weread-advisor",
+  "path_key": "huashu-weread-advisor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

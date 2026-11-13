@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02a52f08-4f14-4eb0-beee-737bb32dc9e9",
+  "path": "fireworks-tech-graph",
+  "path_key": "fireworks-tech-graph",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

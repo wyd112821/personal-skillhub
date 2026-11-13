@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8faa7857-c7b8-4b9e-a09f-bac68526b091",
+  "path": "multi-agent-research-cross-check",
+  "path_key": "multi-agent-research-cross-check",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2e4b2766-9e13-49e1-8176-2ebc7d963fe3",
+  "path": "github-code-interpreter",
+  "path_key": "github-code-interpreter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
